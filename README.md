@@ -1,1 +1,1 @@
-for roblox, put the script as a local script in StarterGUI folder and it should work.
+just copy the SmoothFirstPerson.lua script and put it in a local script file in StarterGui on roblox studio.
